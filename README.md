@@ -25,8 +25,8 @@
 ![image](https://github.com/BhavanaBalasa/OTP_Verification_System_Python_project/blob/main/OTPWindow.png)
 
 ## Constraints:
-   -- Emails might not reach the user instantly due to delays in the mail server.
-   -- SMTP Server may face downtime.
-   -- Security issues
-  -- Email services like Gmail limit the number of daily or minute emails.
+    -- Emails might not reach the user instantly due to delays in the mail server.
+    -- SMTP Server may face downtime.
+    -- Security issues
+    -- Email services like Gmail limit the number of daily or minute emails.
 
