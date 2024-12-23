@@ -19,10 +19,10 @@
     -- Allow the user to retry OTP entry in case of incorrect input.
 
 ## Process Flow:
-  ![image](https://github.com/user-attachments/assets/c61d0e71-2408-44fc-85f4-3e89acf48bb1)
+  ![image](https://github.com/BhavanaBalasa/OTP_Verification_System_Python_project/blob/main/ProcessFlow.png)
 ## Output windows:
-![image](https://github.com/user-attachments/assets/c61d0e71-2408-44fc-85f4-3e89acf48bb1)
-![image](https://github.com/user-attachments/assets/c61d0e71-2408-44fc-85f4-3e89acf48bb1)
+![image](https://github.com/BhavanaBalasa/OTP_Verification_System_Python_project/blob/main/EmailWindow.png)
+![image](https://github.com/BhavanaBalasa/OTP_Verification_System_Python_project/blob/main/OTPWindow.png)
 
 ## Constraints:
    -- Emails might not reach the user instantly due to delays in the mail server.
