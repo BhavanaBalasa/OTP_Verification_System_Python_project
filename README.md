@@ -9,17 +9,17 @@
 
 ## Project Requirements:
 
-    -- Implement a function to generate a 6-digit OTP randomly.
+    - Implement a function to generate a 6-digit OTP randomly.
 
-    -- Develop a function to simulate sending the OTP to the user's email address.
+    - Develop a function to simulate sending the OTP to the user's email address.
 
-    -- Create a function to prompt the user to enter the OTP received in their email.
+    - Create a function to prompt the user to enter the OTP received in their email.
 
-    -- Implement a function to verify if the entered OTP matches the generated OTP.
+    - Implement a function to verify if the entered OTP matches the generated OTP.
 
-    -- Ensure proper error handling and user-friendly prompts throughout the system.
+    - Ensure proper error handling and user-friendly prompts throughout the system.
 
-    -- Allow the user to retry OTP entry in case of incorrect input.
+    - Allow the user to retry OTP entry in case of incorrect input.
 
 ## Process Flow:
   ![image](https://github.com/BhavanaBalasa/OTP_Verification_System_Python_project/blob/main/ProcessFlow.png)
@@ -28,8 +28,8 @@
 ![image](https://github.com/BhavanaBalasa/OTP_Verification_System_Python_project/blob/main/OTPWindow.png)
 
 ## Constraints:
-    -- Emails might not reach the user instantly due to delays in the mail server.
-    -- SMTP Server may face downtime.
-    -- Security issues
-    -- Email services like Gmail limit the number of daily or minute emails.
+    - Emails might not reach the user instantly due to delays in the mail server.
+    - SMTP Server may face downtime.
+    - Security issues
+    - Email services like Gmail limit the number of daily or minute emails.
 
